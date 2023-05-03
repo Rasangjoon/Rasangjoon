@@ -9,7 +9,6 @@ import numpy as np
 import altair as alt
 import matplotlib.pyplot as plt
 import matplotlib
-matplotlib.use('Agg')
 import plotly.express as px
 import numpy as np
 import seaborn as sns
