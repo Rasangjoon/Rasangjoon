@@ -1,0 +1,13 @@
+matplotlib
+pandas
+streamlit
+pandas
+numpy 
+altair 
+matplotlib.pyplot 
+matplotlib
+matplotlib.use('Agg')
+plotly.express
+numpy 
+seaborn 
+datetime 
