@@ -6,7 +6,6 @@ numpy
 altair 
 matplotlib.pyplot 
 matplotlib
-matplotlib.use('Agg')
 plotly.express
 numpy 
 seaborn 
