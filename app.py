@@ -7,7 +7,6 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import altair as alt
-import matplotlib.pyplot as plt
 import matplotlib
 import plotly.express as px
 import numpy as np
