@@ -14,7 +14,7 @@
 
 
 ### Tools
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio code&logoColor=black">    <img src="https://img.shields.io/badge/Jupyter Code-F37626?style=for-the-badge&logo=Jupyter&logoColor=black">    <img src="https://img.shields.io/badge/Google Colab Code-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=black"> 
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio code&logoColor=black">    <img src="https://img.shields.io/badge/Jupyter Code-F37626?style=for-the-badge&logo=Jupyter&logoColor=black">    <img src="https://img.shields.io/badge/Google Colab Code-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=black">    <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white>
 
 
 
