@@ -286,7 +286,7 @@
 <br/>
 
 ---
-
+<!-- ════════════════════════════ PROJECT 02 ════════════════════════════ -->
 <!-- ════════════════════════════ PROJECT 01 ════════════════════════════ -->
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0d3c,100:2d1069&height=76&text=PROJECT%2001&fontSize=32&fontColor=ffffff&fontAlignY=42&desc=전사%20데이터%20선순환%20구조%20%26%20물류비%20원가%20분석%20자동화&descSize=13&descColor=c4b5fd&descAlignY=76" width="100%"/>
