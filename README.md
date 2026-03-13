@@ -288,6 +288,9 @@
 ---
 <!-- ════════════════════════════ PROJECT 01 ════════════════════════════ -->
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0c1445,100:1e3a8a&height=76&text=PROJECT%2002&fontSize=32&fontColor=ffffff&fontAlignY=42&desc=매출%20데이터%20기반%20영업이익%20예측%20ML%2FDL%20모델%20개발&descSize=13&descColor=93c5fd&descAlignY=76" width="100%"/>
+
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0d3c,100:2d1069&height=76&text=PROJECT%2001&fontSize=32&fontColor=ffffff&fontAlignY=42&desc=전사%20데이터%20선순환%20구조%20%26%20물류비%20원가%20분석%20자동화&descSize=13&descColor=c4b5fd&descAlignY=76" width="100%"/>
 </div>
 
