@@ -346,7 +346,7 @@
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d1a,100:1a0f3c&height=72&text=Projects&fontSize=26&fontColor=e9d5ff&fontAlignY=58&desc=Work%20%26%20Study%20Portfolio%20%7C%207%20Projects&descSize=13&descColor=8b5cf6&descAlignY=82" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d1a,100:1a0f3c&height=72&text=Projects&fontSize=26&fontColor=e9d5ff&fontAlignY=58&desc=Work%20%C2%B7%20Study%20Portfolio%20%7C%207%20Projects&descSize=13&descColor=8b5cf6&descAlignY=82" width="100%"/>
 </div>
 
 <br/>
@@ -375,7 +375,7 @@
 <!-- ══════════════ PROJECT 01 ══════════════ -->
 <a name="project-01"></a>
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0d3c,100:2d1069&height=84&text=PROJECT%2001&fontSize=34&fontColor=ffffff&fontAlignY=40&desc=%EC%A0%84%EC%82%AC%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%84%A0%EC%88%9C%ED%99%98%20%EA%B5%AC%EC%A1%B0%20%26%20%EB%AC%BC%EB%A5%98%EB%B9%84%20%EC%9B%90%EA%B0%80%20%EB%B6%84%EC%84%9D%20%EC%9E%90%EB%8F%99%ED%99%94&descSize=13&descColor=c4b5fd&descAlignY=78" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0d3c,100:2d1069&height=84&text=PROJECT%2001&fontSize=34&fontColor=ffffff&fontAlignY=40&desc=%EC%A0%84%EC%82%AC%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%84%A0%EC%88%9C%ED%99%98%20%EA%B5%AC%EC%A1%B0%20%C2%B7%20%EB%AC%BC%EB%A5%98%EB%B9%84%20%EC%9B%90%EA%B0%80%20%EB%B6%84%EC%84%9D%20%EC%9E%90%EB%8F%99%ED%99%94&descSize=13&descColor=c4b5fd&descAlignY=78" width="100%"/>
 </div>
 
 <br/>
@@ -800,7 +800,7 @@
 <!-- ══════════════ PROJECT 05 ══════════════ -->
 <a name="project-05"></a>
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e0a3c,100:4c1d95&height=84&text=PROJECT%2005&fontSize=34&fontColor=ffffff&fontAlignY=40&desc=Power%20BI%20%EB%B6%80%EC%84%9C%EB%B3%84%20%EA%B5%90%EC%9C%A1%20%EC%B2%B4%EA%B3%84%20%EC%88%98%EB%A6%BD%20%26%20%EA%B0%80%EC%9D%B4%EB%93%9C%20%EC%A0%9C%EC%9E%91%C2%B7%EB%B0%B0%ED%8F%AC&descSize=13&descColor=c4b5fd&descAlignY=78" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e0a3c,100:4c1d95&height=84&text=PROJECT%2005&fontSize=34&fontColor=ffffff&fontAlignY=40&desc=Power%20BI%20%EB%B6%80%EC%84%9C%EB%B3%84%20%EA%B5%90%EC%9C%A1%20%EC%B2%B4%EA%B3%84%20%EC%88%98%EB%A6%BD%20%C2%B7%20%EA%B0%80%EC%9D%B4%EB%93%9C%20%EC%A0%9C%EC%9E%91%C2%B7%EB%B0%B0%ED%8F%AC&descSize=13&descColor=c4b5fd&descAlignY=78" width="100%"/>
 </div>
 
 <br/>
